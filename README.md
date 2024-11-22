@@ -3,7 +3,9 @@
 This repository contains an exploratory data analysis (EDA) on a synthetic mental health dataset. The goal of this analysis is to uncover patterns and relationships between various factors such as therapy types, medication, age groups, and treatment outcomes.
 
 ## Dataset Overview
-Link: https://www.kaggle.com/datasets/uom190346a/mental-health-diagnosis-and-treatment-monitoring
+
+Link to dataset used: https://www.kaggle.com/datasets/uom190346a/mental-health-diagnosis-and-treatment-monitoring
+
 The dataset includes the following key columns:
 - **Patient ID**: Unique identifier for each patient.
 - **Age**: Patient's age.
